@@ -1,0 +1,4 @@
+name: Zfarmregen
+version: 1.0.0
+main: aotgamer\Dungeon\Main
+api: 3.0.0
