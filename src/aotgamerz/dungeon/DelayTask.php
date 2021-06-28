@@ -1,7 +1,7 @@
 
 <?php
 
-namespace MasApip\Dungeon;
+namespace aotgamerz\dungeon;
 
 use pocketmine\block\Block;
 use pocketmine\scheduler\Task;
