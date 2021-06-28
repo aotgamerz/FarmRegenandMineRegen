@@ -4,5 +4,5 @@ branches:
 - main
 projects:
   Crops-Replant:
-    path: "/icon.png"
+    path: "icon.png"
 ...
