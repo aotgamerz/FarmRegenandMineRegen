@@ -1,8 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/aotgamerz/Crops-Replant
-build-by-default: true
-branches:
-- main
-projects:
-  Crops-OresRegen:
-    path: "icon.png"
-...
