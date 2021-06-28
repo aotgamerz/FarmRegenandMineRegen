@@ -3,6 +3,6 @@ build-by-default: true
 branches:
 - main
 projects:
-  Crops-Replant:
+  Crops-Ores_Regen:
     path: "icon.png"
 ...
