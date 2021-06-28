@@ -1,6 +1,6 @@
 <?php
 
-namespace MasApip\Dungeon;
+namespace aotgamerz\dungeon;
 
 use pocketmine\block\Block;
 use pocketmine\event\block\BlockBreakEvent;
