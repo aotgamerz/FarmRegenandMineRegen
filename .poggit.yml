@@ -4,5 +4,5 @@ branches:
 - main
 projects:
   FarmRegenandMineRegen:
-    path: "icon.png"
+    path: ""
 ...
