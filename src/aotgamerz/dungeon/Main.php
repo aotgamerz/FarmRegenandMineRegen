@@ -203,7 +203,7 @@ class Main extends PluginBase implements Listener{
                 $event->setXpDropAmount(0);
                 $block->getLevelNonNull()->setBlock($block->asVector3(), Block::get(Block::AIR));
                 $this->getScheduler()->scheduleDelayedTask(new DelayTask($this, $block), 20 * $this->config->get("delay"));
-            } elseif($block->getId() === Block::LOG && $this->config->get("log") === true){
+            } elseif($block->getId() === Block::WOOD && $this->config->get("log") === true){
                 foreach ($event->getDrops() as $drop) {
                     $event->getPlayer()->getInventory()->addItem($drop);
                 }
